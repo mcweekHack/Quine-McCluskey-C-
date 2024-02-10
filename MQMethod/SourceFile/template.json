@@ -1,0 +1,21 @@
+{
+  "Variable_number": 0,
+  "Logic_Function": {
+    "size": 0,
+    "data": []
+  },
+  "UnRelated_terms": {
+    "size": 0,
+    "data": []
+  }
+}
+/*
+  这里是json输入文件模板
+  以下为数据输入规则:
+  1.Variable_number指代逻辑函数中的变量个数
+  2.Logic_Function指代最小项式内的每一个最小项的代号(例:"M3"写为3)
+  3.UnRelated_terms指代无关项集合.
+  4.size指代相关集合的大小
+  5.data则代表具体的集合
+  6.此为输入文件的模板文件,不可将此文件当作数据输入文件传入程序,否则无法获得结果.
+*/

@@ -1,0 +1,17 @@
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\bin\Debug\net8.0\MQMethod.exe
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\bin\Debug\net8.0\MQMethod.deps.json
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\bin\Debug\net8.0\MQMethod.runtimeconfig.json
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\bin\Debug\net8.0\MQMethod.dll
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\bin\Debug\net8.0\MQMethod.pdb
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.AssemblyInfoInputs.cache
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.AssemblyInfo.cs
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.csproj.CoreCompileInputs.cache
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.dll
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\refint\MQMethod.dll
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.pdb
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.genruntimeconfig.cache
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\ref\MQMethod.dll
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.csproj.AssemblyReference.cache
+C:\Users\mcweek\Desktop\MQMethod\MQMethod\MQMethod\obj\Debug\net8.0\MQMethod.csproj.CopyComplete

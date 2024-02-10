@@ -1,0 +1,11 @@
+{
+    "Variable_number": 5,
+    "Logic_Function": {
+      "size" : 16,
+      "data": [2,3,7,9,10,11,12,13,18,19,22,23,26,27,30,31] 
+    },
+    "UnRelated_terms": {
+      "size" : 0,
+      "data" : []
+    }
+}
